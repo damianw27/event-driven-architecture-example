@@ -1,0 +1,8 @@
+POST http://localhost:3000/rest/introduce-yourself
+Content-Type: application/json
+
+{"name":"Damian"}
+
+###
+
+GET http://localhost:3000/rest/list-consumers

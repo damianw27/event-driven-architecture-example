@@ -1,0 +1,11 @@
+{
+  "name": "event-driven-architecture",
+  "version": "1.0.0",
+  "description": "Example of event-driven architecture in NodeJS",
+  "main": "index.js",
+  "repository": "https://github.com/damianw27/event-driven-architecture-example.git",
+  "author": "Damian Wileński",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["interface", "scheduler"]
+}
